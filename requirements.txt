@@ -1,5 +1,2 @@
 streamlit
 textblob
-nltk
-WordNetLemmatizer
-re
